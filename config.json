@@ -1,0 +1,12 @@
+{
+  "listen": ":443",
+  "udp_timeout": 60,
+  "log_level": "info",
+  "users": [
+    {
+      "username": "demo",
+      "password": "demo123",
+      "expiry": "2026-12-31"
+    }
+  ]
+}
