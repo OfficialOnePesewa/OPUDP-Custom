@@ -27,3 +27,14 @@ Change Password
 Torrent Blocker
 Service Status / Restart
 Remove OPUDP
+
+
+🛠 Requirements
+Fresh Ubuntu / Debian VPS
+Root access
+At least 1 GB RAM recommended
+📞 Support & Contact
+GitHub: OfficialOnePesewa
+Repository: OPUDP-Custom
+Star this repo if you find it useful! ⭐
+Made with ❤️ for the community.
